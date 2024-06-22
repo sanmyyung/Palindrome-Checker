@@ -12,4 +12,4 @@ String Input: The program accepts a string input from the user.
 Palindrome Check: The program checks if the input string reads the same forwards and backwards.
 Output: The program outputs The string is a palindrome if the string is a palindrome and The string is not a palindrome if otherwise.
 
-For more information you can see how i use the AutoGPT [here]()
+For more information you can see how i use the AutoGPT [here](https://github.com/sanmyyung/Palindrome-Checker/blob/main/palindrome%20video.mp4)

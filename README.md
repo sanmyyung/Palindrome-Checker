@@ -1,4 +1,5 @@
 # Palindrome-Checker
+![The Code]()
 
 ## Introduction
 This project involves the development of a Python program to check whether a string is a palindrome or not using AutoGPT. The purpose of this program is to determine if a given string reads the same forwards and backwards, which is useful in various applications such as data validation and string manipulation.
